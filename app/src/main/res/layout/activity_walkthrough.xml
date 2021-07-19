@@ -26,7 +26,7 @@
             android:layout_gravity="center_horizontal"
             android:text="@string/heading"
             android:textAlignment="center"
-            android:textSize="36sp" />
+            android:textSize="8sp" />
 
         <TextView
             android:id="@+id/description"
