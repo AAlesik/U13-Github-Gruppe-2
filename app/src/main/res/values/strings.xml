@@ -41,8 +41,8 @@
     <!-- Weitere texte für die Beschriftung der Labels und Buttons im User Interface -->
     <string name="heading">Der Live-Stream</string>
     <string name="description">Geschichten die das Leben schreibt</string>
-    <string name="optionA">Option A</string>
-    <string name="optionB">Option B</string>
+    <string name="optionA">Erste Option</string>
+    <string name="optionB">Zweite Option</string>
     <string name="label_start">CYOA: Android</string>
     <string name="label_stream">Der Stream</string>
     <string name="label_godEnding">Happy Ending</string>
